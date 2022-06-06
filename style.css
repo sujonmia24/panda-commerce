@@ -12,8 +12,7 @@
     color: #ff136f;
 }
 .buy-now-button {
-    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
-    color: #fff;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);    color: #fff;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
@@ -41,4 +40,18 @@
 .card {
     border: none;
     box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+.card-footer {
+    background-color: #fff;
+    border-top: none;
+}
+#about-us {
+    height: 300px;
+}
+#about-us h6 {
+    color: gray;
+}
+footer {
+    text-align: center;
 }
